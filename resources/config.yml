@@ -1,0 +1,11 @@
+modality:
+  hcf:
+    ip: 0.0.0.0
+    port: 0.0.0.0
+  kitmap:
+    ip: 0.0.0.0
+    port: 0.0.0.0
+  practice:
+    ip: 0.0.0.0
+    port: 0.0.0.0
+  message: "&aYou have been transferred to the mode of: {modality}"
